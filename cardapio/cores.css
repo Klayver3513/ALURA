@@ -1,4 +1,5 @@
 body {
+    background-color: #d86666;
     font-family: Arial, sans-serif;
     margin: 20px;
 }
@@ -9,17 +10,19 @@ h1, h2 {
 
 .item {
     margin-bottom: 10px;
+    display: flex;
+    font-size:20px ;
 }
 
 #cart, #checkout-form {
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 button {
     margin-right: 10px;
     padding: 10px 20px;
-    background-color: #4CAF50;
-    color: white;
+    background-color: #b0d84c;
+    color: rgb(0, 0, 0);
     border: none;
     cursor: pointer;
 }
