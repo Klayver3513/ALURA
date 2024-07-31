@@ -36,8 +36,7 @@ font-family:var(--fonte-paragrafo);
 font-size: 24px;
 font-weight: 600;
 color: var(--cor-primaria);
-text-decoration: none;
-}
+text-decoration: none; }
 .apresentacao{
     padding: 3% 10%;
     display: flex;
